@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toraos-clone
 - 👀 I’m interested in software development, automated testing, and accessibility testing.
--     Outside of that, my principle interests are capoeira and parkour and fawning over my imperious cats.
+-     Outside of that, my principle interests are listening to too many podcasts, parkour, and fawning over my imperious cats.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning, small projects. 
 - 📫 How to reach me will.knight.1@gmail.com
